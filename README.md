@@ -17,7 +17,7 @@ The detail that in my opinion makes all the difference is that during these 10 m
 1 Arduino Nano
 3 switches
 
-Démo: -LIEN-
+Démo: https://youtube.com/shorts/x1oBn_iwTME?feature=share
 
 # Assembly diagram
 -IMG-
