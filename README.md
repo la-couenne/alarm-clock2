@@ -23,7 +23,7 @@ The detail that in my opinion makes all the difference is that during these 10 m
 Démo: https://youtube.com/shorts/x1oBn_iwTME?feature=share
 
 # Assembly diagram
-![schema1](https://github.com/la-couenne/alarm-clock2/blob/main/schema1.jpg)
+![schema1](https://github.com/la-couenne/alarm-clock2/blob/main/schema1.png)
 
 I think it takes a short week for the brain to learn to respond to beeps, but overall it works well for me. Don't hesitate to give it a try and get back to me :)
 
